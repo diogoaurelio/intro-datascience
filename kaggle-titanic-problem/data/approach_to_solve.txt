@@ -1,0 +1,7 @@
+1) 
+Created some Rules, which was nothing more than guessing which variables could influence the outcome of survival rate among passengers
+
+2) Auomation
+
+Need to automate this, so started using machine learning algorithm decision tree
+We do know, though, that Decision Trees are prone to overfitting;
